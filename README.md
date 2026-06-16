@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshal-codes/leetcode/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshal-codes/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshal-codes/leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/harshal-codes/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
