@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshal-codes/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/harshal-codes/leetcode/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshal-codes/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshal-codes/leetcode/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshal-codes/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshal-codes/leetcode/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/harshal-codes/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshal-codes/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
